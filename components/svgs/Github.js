@@ -1,6 +1,6 @@
 const Github = () => (
   <a
-    href='https://github.com/scozdev/cv-app'
+    href='https://github.com/AdinathBiradar01'
     className='github-corner'
     target='true'
     aria-label='View source on Github'
